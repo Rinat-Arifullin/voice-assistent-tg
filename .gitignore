@@ -1,5 +1,7 @@
 # Dependency directories
 node_modules/
+config/default.json
+config/prodaction.json
 
 # Distribution directories
 dist/
